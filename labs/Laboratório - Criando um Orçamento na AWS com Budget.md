@@ -19,4 +19,31 @@ aprender e realizar testes. Para evitar surpresas na fatura e manter seus
 gastos sob controle, é essencial configurar um orçamento com alertas
 automáticos. Este laboratório simula a criação de um orçamento simples, com
 limite de US$ 10, e notificação por e-mail quando 10% do valor for utilizado.
-Envie o print como prova de que configurou corretamente o orçamento e o alerta.
+
+
+1 - Crie um nome para o orçamento e também os destinatários que receberam notificações.
+
+![image](https://github.com/user-attachments/assets/151e374a-7cff-43e6-afa8-0ac065aef796)
+
+2 - Configuramos para que sejamos notiicados assim que Quando o custo real for maior que 10% (US$ 0,10) do valor orçado (US$ 1,00), o limite de alerta será excedido.
+![image](https://github.com/user-attachments/assets/a81c3415-e9b6-4bf8-a955-7421cc6efc87)
+
+Configurar um Budget como este que você acabou de criar é uma prática fundamental
+na gestão de custos na AWS. Ele não é apenas um número definido, mas sim uma
+ferramenta proativa essencial.
+A importância do AWS Budgets reside precisamente em sua capacidade de oferecer
+visibilidade sobre seus gastos e, crucialmente, de alertar você antes que seus
+custos ultrapassem limites definidos. Ao ser notificado quando atinge um percentual
+(como os 10% configurados) ou um valor absoluto do seu orçamento, você ganha a
+oportunidade de:
+
+• Investigar a origem dos custos.
+• Tomar ações corretivas a tempo (desligar recursos não utilizados, otimizar
+serviços, etc.).
+• Evitar surpresas desagradáveis e contas elevadas ao final do ciclo de
+faturamento.
+
+É uma camada essencial de controle financeiro que transforma o gerenciamento de
+custos de reativo (descobrir o gasto no final do mês) para proativo (monitorar e agir
+enquanto o gasto acontece). Portanto, utilize essa ferramenta e fique sempre atento
+aos alertas para manter seus custos na nuvem sob controle!
