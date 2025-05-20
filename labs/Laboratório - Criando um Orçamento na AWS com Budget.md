@@ -42,8 +42,10 @@ custos ultrapassem limites definidos. Ao ser notificado quando atinge um percent
 oportunidade de:
 
 • Investigar a origem dos custos.
+
 • Tomar ações corretivas a tempo (desligar recursos não utilizados, otimizar
 serviços, etc.).
+
 • Evitar surpresas desagradáveis e contas elevadas ao final do ciclo de
 faturamento.
 
