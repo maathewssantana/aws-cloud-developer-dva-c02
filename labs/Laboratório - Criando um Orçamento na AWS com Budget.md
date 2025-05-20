@@ -28,6 +28,10 @@ limite de US$ 10, e notificação por e-mail quando 10% do valor for utilizado.
 2 - Configuramos para que sejamos notiicados assim que Quando o custo real for maior que 10% (US$ 0,10) do valor orçado (US$ 1,00), o limite de alerta será excedido.
 ![image](https://github.com/user-attachments/assets/a81c3415-e9b6-4bf8-a955-7421cc6efc87)
 
+3 - Notificação E-mail
+![image](https://github.com/user-attachments/assets/82e465f3-c5d1-418e-a13a-d72e5e279e6f)
+
+
 Configurar um Budget como este que você acabou de criar é uma prática fundamental
 na gestão de custos na AWS. Ele não é apenas um número definido, mas sim uma
 ferramenta proativa essencial.
