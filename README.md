@@ -16,6 +16,6 @@
 
 ## Laboratório - Automatizando o Fim das Instâncias na AWS
 
-###  ![icons8-awslambda-30](https://github.com/user-attachments/assets/c13e2a56-909a-407c-b9b8-b5a93433c9c6) [Automatizando o Fim das Instâncias na AWS](https://github.com/maathewssantana/aws-cloud-developer-dva-c02/blob/main/labs/Laborat%C3%B3rio%20-%20Criando%20um%20Or%C3%A7amento%20na%20AWS%20com%20Budget.md)
+###  ![icons8-awslambda-30](https://github.com/user-attachments/assets/c13e2a56-909a-407c-b9b8-b5a93433c9c6) [Automatizando o Fim das Instâncias na AWS](labs/lambda-automacao-fim-instnacias.md)
 
 <sub> _Neste tópico mostro como criar uma automação para finalizar instâncias_ </sub>
