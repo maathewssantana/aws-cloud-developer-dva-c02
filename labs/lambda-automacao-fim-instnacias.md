@@ -1,5 +1,4 @@
-# Automação com Lambda para finalizar instâncias (![image](https://github.com/user-attachments/assets/60b1a3f8-8938-4a10-9bae-d5783d3f4ef0)
-)
+# Automação com Lambda para finalizar instâncias ![image](https://github.com/user-attachments/assets/60b1a3f8-8938-4a10-9bae-d5783d3f4ef0)
 
 ## Laborátório 🥼
 
