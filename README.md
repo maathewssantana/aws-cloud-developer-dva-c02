@@ -22,6 +22,6 @@
 
 ## Laboratório - Jogo de Adivinhação com AWS Lambda, API Gateway e S3
 
-###  ![icons8-controlador-ps-30](https://github.com/user-attachments/assets/6cb98fa0-c7b5-4475-98d6-9ee579197a97) [Automatizando o Fim das Instâncias na AWS](labs/lambda-automacao-fim-instnacias.md)
+###  ![icons8-controlador-ps-30](https://github.com/user-attachments/assets/6cb98fa0-c7b5-4475-98d6-9ee579197a97) [Jogo de Adivinhação](labs/jogo-advinhacao-s3-lambda-api.md)
 
 <sub> _Neste tópico mostro como criar um jogo utilizando Lambda, API Gateway e S3_ </sub>
