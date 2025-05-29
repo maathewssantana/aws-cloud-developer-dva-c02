@@ -5,10 +5,8 @@ Criar e gerenciar uma aplicação serverless na AWS, integrando múltiplos servi
 
 ### Passo a Passo
 
-- Criar a função Lambda com a lógica do jogo.
-- Criar e configurar a API Gateway (rotas, integrações, CORS).
-- Conectar o site à API usando a URL gerada.
-- Personalizar o site com seu nome ao lado de “Escola da Nuvem💙”.
-- Fazer upload do site (index.html) no S3.
-- Liberar acesso público ao bucket e ativar a hospedagem de site estático.
+• Desenvolver uma função Lambda em Python para implementar a lógica do jogo.
+• Criar uma API RESTful com Amazon API Gateway para expor a função Lambda
+• Publicar um frontend estático no Amazon S3 para interação com o usuário
+• Conectar o frontend à API Gateway, permitindo chamadas à função Lambda.
 
