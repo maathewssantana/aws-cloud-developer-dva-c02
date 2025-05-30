@@ -28,6 +28,6 @@
 
 ## Laboratório - Amazon S3 Básico, Avançado e Acesso a Logs
 
-###  ![icons8-bucket-30](https://github.com/user-attachments/assets/279ed93f-0151-49da-8d16-c0d7c9dcd06d) [Jogo de Adivinhação](labs/jogo-advinhacao-s3-lambda-api.md)
+###  ![icons8-bucket-30](https://github.com/user-attachments/assets/279ed93f-0151-49da-8d16-c0d7c9dcd06d) [S3 e Acesso a Logs](labs/s3-acesso-logs.md)
 
 <sub> _Neste tópico é sobre S3, Avançado e Acesso aos logs_ </sub>
