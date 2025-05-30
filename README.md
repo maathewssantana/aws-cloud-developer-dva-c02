@@ -25,3 +25,9 @@
 ###  ![icons8-controlador-ps-30](https://github.com/user-attachments/assets/6cb98fa0-c7b5-4475-98d6-9ee579197a97) [Jogo de Adivinhação](labs/jogo-advinhacao-s3-lambda-api.md)
 
 <sub> _Neste tópico mostro como criar um jogo utilizando Lambda, API Gateway e S3_ </sub>
+
+## Laboratório - Amazon S3 Básico, Avançado e Acesso a Logs
+
+###  ![icons8-bucket-30](https://github.com/user-attachments/assets/279ed93f-0151-49da-8d16-c0d7c9dcd06d) [Jogo de Adivinhação](labs/jogo-advinhacao-s3-lambda-api.md)
+
+<sub> _Neste tópico é sobre S3, Avançado e Acesso aos logs_ </sub>
