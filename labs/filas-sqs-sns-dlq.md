@@ -7,10 +7,10 @@ onde eventos são publicados e processados de forma assíncrona, com tolerância
 
 ### Passos para Conclusão do Laboratório:
 
-Criar uma fila SQS para servir como Dead-Letter Queue (DLQ).
-Criar uma fila SQS principal (Padrão).
-Configurar a fila principal para usar a DLQ (Política de Redirecionamento/Redrive Policy). 
-Criar um tópico SNS Padrão.
-Inscrever a fila SQS principal no tópico SNS.
-Testar o envio de mensagens via SNS e o recebimento na fila SQS. 
-Compreender e simular o envio de mensagens para a DLQ.
+- Criar uma fila SQS para servir como Dead-Letter Queue (DLQ).
+- Criar uma fila SQS principal (Padrão).
+- Configurar a fila principal para usar a DLQ (Política de Redirecionamento/Redrive Policy). 
+- Criar um tópico SNS Padrão.
+- Inscrever a fila SQS principal no tópico SNS.
+- Testar o envio de mensagens via SNS e o recebimento na fila SQS. 
+- Compreender e simular o envio de mensagens para a DLQ.
