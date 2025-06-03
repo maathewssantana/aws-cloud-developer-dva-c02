@@ -31,3 +31,9 @@
 ###  ![icons8-bucket-30](https://github.com/user-attachments/assets/279ed93f-0151-49da-8d16-c0d7c9dcd06d) [S3 e Acesso a Logs](labs/s3-acesso-logs.md)
 
 <sub> _Neste tópico é sobre S3, Avançado e Acesso aos logs_ </sub>
+
+## Laboratório - Tópico SNS e filas SQS Padrão e DLQ
+
+###  ![icons8-fila-30](https://github.com/user-attachments/assets/c5646163-ebff-46af-ac26-09d74d0ea4f3) [SNS e filas SQS Padrão e DLQ](labs/s3-acesso-logs.md)
+
+<sub> _Neste tópico é sobre Tópico SNS e filas SQS Padrão e DLQ_ </sub>
