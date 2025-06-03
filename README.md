@@ -34,6 +34,6 @@
 
 ## Laboratório - Tópico SNS e filas SQS Padrão e DLQ
 
-###  ![icons8-fila-30](https://github.com/user-attachments/assets/c5646163-ebff-46af-ac26-09d74d0ea4f3) [SNS e filas SQS Padrão e DLQ](labs/s3-acesso-logs.md)
+###  ![icons8-fila-30](https://github.com/user-attachments/assets/c5646163-ebff-46af-ac26-09d74d0ea4f3) [SNS e filas SQS Padrão e DLQ](labs/filas-sqs-sns-dlq.md)
 
 <sub> _Neste tópico é sobre Tópico SNS e filas SQS Padrão e DLQ_ </sub>
