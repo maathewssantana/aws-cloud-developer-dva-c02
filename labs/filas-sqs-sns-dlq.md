@@ -32,4 +32,5 @@ onde eventos são publicados e processados de forma assíncrona, com tolerância
 ### Simulado o envio de mensagens para a DLQ.
 ![image](https://github.com/user-attachments/assets/ea476790-a42b-45dc-b418-d2a2fb540f2f)
 
-  
+### Como adicional criei um script em Python que envia uma mensagem para fila principal, e depois faço a leitura da mensagem na fila.
+![image](https://github.com/user-attachments/assets/9825c32d-b7ad-4779-9c01-c0bd37e2926c)
