@@ -14,3 +14,22 @@ onde eventos são publicados e processados de forma assíncrona, com tolerância
 - Inscrever a fila SQS principal no tópico SNS.
 - Testar o envio de mensagens via SNS e o recebimento na fila SQS. 
 - Compreender e simular o envio de mensagens para a DLQ.
+
+
+### Criei uma fila SQS para servir como Dead-Letter Queue (DLQ).
+![fila-dlq](https://github.com/user-attachments/assets/9a9939da-5254-4b21-9c41-b6b9cdd3f74d)
+
+### Criei uma fila SQS principal (Padrão).
+![fila-principal-sqs](https://github.com/user-attachments/assets/650dfb08-50dd-4c19-958c-720025633cb7)
+
+### Configurei a fila principal para usar a DLQ (Política de Redirecionamento/Redrive Policy)
+### Criei um tópico SNS Padrão.
+![topico-sns](https://github.com/user-attachments/assets/eb5ea036-8dd5-45ba-8598-9c64561378bc)
+
+### Testei o envio de mensagens via SNS e o recebimento na fila SQS. 
+![mensagem-sqs](https://github.com/user-attachments/assets/a15206b8-7cf0-409a-b524-bf2abc667de0)
+
+### Simulado o envio de mensagens para a DLQ.
+![image](https://github.com/user-attachments/assets/ea476790-a42b-45dc-b418-d2a2fb540f2f)
+
+  
