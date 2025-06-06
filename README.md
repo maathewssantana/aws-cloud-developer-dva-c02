@@ -40,6 +40,6 @@
 
 ## Laboratório - Aplicações com AWS Elastic Beanstalk
 
-###  ![icons8-aws-30](https://github.com/user-attachments/assets/6561e225-ebe4-4087-9214-f809cafa1deb) [Aplicações com AWS Elastic Beanstalk](labs/filas-sqs-sns-dlq.md)
+###  ![icons8-aws-30](https://github.com/user-attachments/assets/6561e225-ebe4-4087-9214-f809cafa1deb) [Aplicações com AWS Elastic Beanstalk](labs/aws-beanstalk.md)
 
 <sub> _Neste tópico é sobre Aplicações com AWS Elastic Beanstalk_ </sub>
