@@ -37,3 +37,9 @@
 ###  ![icons8-fila-30](https://github.com/user-attachments/assets/c5646163-ebff-46af-ac26-09d74d0ea4f3) [SNS e filas SQS Padrão e DLQ](labs/filas-sqs-sns-dlq.md)
 
 <sub> _Neste tópico é sobre Tópico SNS e filas SQS Padrão e DLQ_ </sub>
+
+## Laboratório - Aplicações com AWS Elastic Beanstalk
+
+###  ![icons8-aws-30](https://github.com/user-attachments/assets/6561e225-ebe4-4087-9214-f809cafa1deb) [Aplicações com AWS Elastic Beanstalk](labs/filas-sqs-sns-dlq.md)
+
+<sub> _Neste tópico é sobre Aplicações com AWS Elastic Beanstalk_ </sub>
