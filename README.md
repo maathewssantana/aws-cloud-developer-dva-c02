@@ -43,3 +43,9 @@
 ###  ![icons8-aws-30](https://github.com/user-attachments/assets/6561e225-ebe4-4087-9214-f809cafa1deb) [Aplicações com AWS Elastic Beanstalk](labs/aws-beanstalk.md)
 
 <sub> _Neste tópico é sobre Aplicações com AWS Elastic Beanstalk_ </sub>
+
+## Laboratório – SSM Parameter Store Hands on (CLI)
+
+###  ![icons8-cmd-30 (1)](https://github.com/user-attachments/assets/b807f4f5-6819-4c4b-9fbc-8907c44793ca) [SSM Parameter Store Hands on (CLI)](labs/ssm-parameter-cli.md)
+
+<sub> _Neste tópico é sobre SSM Parameter Store Hands on (CLI )_ </sub>
