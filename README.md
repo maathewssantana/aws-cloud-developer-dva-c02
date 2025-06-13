@@ -49,3 +49,16 @@
 ###  ![icons8-cmd-30 (1)](https://github.com/user-attachments/assets/b807f4f5-6819-4c4b-9fbc-8907c44793ca) [SSM Parameter Store Hands on (CLI)](labs/ssm-parameter-cli.md)
 
 <sub> _Neste tópico é sobre SSM Parameter Store Hands on (CLI )_ </sub>
+
+## Laboratório - AWS Lambda  com Aliases e API Gateway com Stages
+
+### ![icons8-configurações-de-api-30](https://github.com/user-attachments/assets/5c7311f6-c296-4970-a1cf-a9783812435f) [AWS Lambda  com Aliases e API Gateway com Stages (CLI)](labs/lambda-aliases-api-stages.md)
+
+<sub> _Neste tópico é sobre AWS Lambda  com Aliases e API Gateway com Stages_ </sub>
+
+## Laboratório - Monitoramento e Auditoria com CloudWatch e CloudTrail na AWS
+
+###  ![icons8-monitoramento-30](https://github.com/user-attachments/assets/8dc47489-670b-4cf4-afc5-23d1b52b12ff) [Monitoramento e Auditoria com CloudWatch e CloudTrail na AWS (CLI)](labs/monitoramento-cloudtrail.md)
+
+<sub> _Neste tópico é sobre Monitoramento e Auditoria com CloudWatch e CloudTrail na AWS_ </sub>
+
