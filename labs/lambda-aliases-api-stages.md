@@ -14,3 +14,22 @@ Neste laboratório, você irá configurar uma arquitetura serverless organizada 
 - Integrar cada Stage com o Alias correspondente da função Lambda.
 - Testar os endpoints dos Stages (/dev, /prod) para garantir que cada um acione a versão correta da função Lambda.
 - Compreender os benefícios do uso combinado de Aliases (Lambda) e Stages (API Gateway) para o gerenciamento do ciclo de vida e implantação controlada de aplicações serverless
+
+
+### Versões do lambda
+![lambda-versoes](https://github.com/user-attachments/assets/6c7430e9-ef27-4ebd-acb1-0466496ecece)
+
+### Aliases lambda
+![versao-aliases-lambda](https://github.com/user-attachments/assets/b24055dc-31ca-410d-baf8-32eea25af345)
+
+### Stages API Gateway (Prod e Dev) Metódo (GET)
+![stages-api-gateway](https://github.com/user-attachments/assets/7880ddc7-70f1-49df-b657-928e2cea9abe)
+
+### Teste API Postman
+/Prod
+
+![get-postman-prod](https://github.com/user-attachments/assets/777eb6a3-6b49-4c9b-9835-600652440db9)
+
+/Dev
+![get-postman-dev](https://github.com/user-attachments/assets/7e5c2563-4a2b-43fa-b5b3-8070ef84d830)
+
