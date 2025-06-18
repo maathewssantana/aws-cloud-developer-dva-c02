@@ -62,3 +62,23 @@
 
 <sub> _Neste tópico é sobre Monitoramento e Auditoria com CloudWatch e CloudTrail na AWS_ </sub>
 
+## Laboratório - Criação de tabela DynamoDB e operação CRUD com Python
+
+###  ![icons8-nosql-30](https://github.com/user-attachments/assets/577dd697-7ece-46fa-b30a-02dc1b41c152) [Criação de tabela DynamoDB e operação CRUD com Python](labs/dynamo-crud-nosql.md)
+
+<sub> _Neste tópico é sobre Criação de tabela DynamoDB e operação CRUD com Python_ </sub>
+
+## Laboratório - DynamoDB GLI e LSI
+
+###  ![icons8-monitoramento-30](https://github.com/user-attachments/assets/8dc47489-670b-4cf4-afc5-23d1b52b12ff) [DynamoDB GLI e LSI](labs/dynamo-gsi-lsi.md)
+
+<sub> _Neste tópico é sobre DynamoDB GLI e LSI_ </sub>
+
+## Laboratório - AWS Security Token Service (STS) 
+
+### ![icons8-escudo-com-fechadura-30](https://github.com/user-attachments/assets/5b45bb8b-fbca-47ba-8a4a-2ebadd9df2c7) [AWS Security Token Service (STS))](labs/sts-security.md)
+
+<sub> _Neste tópico é sobre AWS Security Token Service (STS)_ </sub>
+
+
+
