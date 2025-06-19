@@ -12,3 +12,12 @@ _Este laboratório prático demonstra o uso de credenciais temporárias na AWS v
 - Configurar e testar credenciais na AWS CLI.
 - Simular expiração de credenciais.
 - Compreender o impacto da política de
+
+###
+![capture_250618_222433](https://github.com/user-attachments/assets/1295f42c-168a-4c3c-8e27-9dddd4949f1b)
+###
+![role-sts](https://github.com/user-attachments/assets/1c271d94-9e4a-4272-a62a-e9555b4d6530)
+###
+![s3-get](https://github.com/user-attachments/assets/efd3c73e-58f5-426b-b076-e0ecca774c56)
+
+
