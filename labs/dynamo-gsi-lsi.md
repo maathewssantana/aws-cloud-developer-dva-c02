@@ -11,3 +11,9 @@ _Este laboratório prático orienta a criação de uma tabela NoSQL no Amazon Dy
 - Realizar buscas utilizando diferentes métodos e analisar a eficiência.
 - Entender como os índices impactam a performance de leitura.
 - Aprender a excluir índices e tabelas após uso.
+
+
+![tabela-dynameodb](https://github.com/user-attachments/assets/bc558eb3-d40f-4bcd-8dc9-906446455b50)
+![lsi-gsi](https://github.com/user-attachments/assets/23374478-8361-48a5-a3c1-f3875fb8dc03)
+![lsi-dynamo](https://github.com/user-attachments/assets/93e03e1c-4a01-4b9f-8144-8d514e48cecc)
+![dynamo](https://github.com/user-attachments/assets/27cb9884-fe3f-41ea-93a6-37cbf1d3e459)
