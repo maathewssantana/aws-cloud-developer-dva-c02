@@ -12,7 +12,7 @@
 
 ## Laboratório - Criando um Orçamento na AWS com Budget
 
-###  ![icons8-saco-de-dinheiro-30](https://github.com/user-attachments/assets/ef130703-01f3-4a05-9a40-859412d180a0) [Criando um Orçamento na AWS com Budget]()
+###  ![icons8-saco-de-dinheiro-30](https://github.com/user-attachments/assets/ef130703-01f3-4a05-9a40-859412d180a0) [Criando um Orçamento na AWS com Budget](labs/budget-orcamento-aws)
 
 <sub> _Neste tópico mostro como criar um orçamento na AWS com Budget_ </sub>
 
