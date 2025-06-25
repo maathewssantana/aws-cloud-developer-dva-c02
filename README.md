@@ -6,7 +6,7 @@
 
 - Matheus Santana.
 
-## ☁️ [Semana do Desenvolvedor](https://github.com/maathewssantana/aws-cloud-developer-dva-c02/blob/main/semana%20do%20desenvolvedor/Aula%201.md)
+## ☁️ [Semana do Desenvolvedor](https://github.com/maathewssantana/aws-cloud-developer-dva-c02/tree/main/semana%20do%20desenvolvedor)
 
 # C4 ABR - AWS Developer 5 <img src="https://img.shields.io/badge/Em%20Andamento-8A2BE2"/>
 
