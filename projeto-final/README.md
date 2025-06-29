@@ -21,6 +21,14 @@ operações de negócio. Ela utiliza serviços essenciais da AWS_
 #### Tive que realizar algumas liberações, implantando na API REST a liberação ao CORS.
 ![image](https://github.com/user-attachments/assets/eadf7d16-5e73-4432-aa3d-db4dddba0f55)
 
+# Cabeçalhos CORS globais
+cors_headers = {
+    'Content-Type': 'application/json',
+    'Access-Control-Allow-Origin': '*',  # ou 'http://localhost:5173' se preferir
+    'Access-Control-Allow-Headers': 'Content-Type,Authorization',
+    'Access-Control-Allow-Methods': 'OPTIONS,POST,GET'
+}
+
 ### Também realizei um ajuste no lambda de pre-validacao que processa os dados vindos do API Gateway. inserindo a liberação.
 ![image](https://github.com/user-attachments/assets/748325aa-f06a-47f9-909c-9d4a8806e46e)
 
