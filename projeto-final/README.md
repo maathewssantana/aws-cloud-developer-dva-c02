@@ -9,21 +9,14 @@ operações de negócio. Ela utiliza serviços essenciais da AWS_
 - Armazenamento: Amazon S3, Amazon DynamoDB
 - Gerenciamento e Governança: AWS IAM, AWS CloudWatch (Logs e Métricas)
 
-###### -
+######
 ![image](https://github.com/user-attachments/assets/63553682-2d02-451a-80ab-7d899ee6a995)
 
-
 #### Utilizando dessa estrutura para criação de pedidos por API, criei um frontend, deixo em anexo os arquivos do projeto.
+![frontendp-api](https://github.com/user-attachments/assets/ad2aa28e-2ec9-46c7-a84a-345343fcba6a)
 
-
-###### -
-![funcoes-lambda](https://github.com/user-attachments/assets/f5a31c73-8c0e-4fa2-ad72-1e4440057751)
-###### -
-![eventbridge](https://github.com/user-attachments/assets/a14b122a-8d68-499b-915b-2d29ffdcb22c)
-###### -
-![dynamodb-2](https://github.com/user-attachments/assets/d3a54fd3-2f97-4b24-b0e7-3f30196c6c38)
-###### -
-![bucket-datalake](https://github.com/user-attachments/assets/f25a0a38-f34a-4e11-bbea-2198f95acd66)
-###### -
-![apigateway](https://github.com/user-attachments/assets/0b6c1621-c522-4137-b6b5-8444153284a2)
+![valida-pedido](https://github.com/user-attachments/assets/75e106e1-d178-4749-96fe-bee6c4d732c3)
+![processa-pedido](https://github.com/user-attachments/assets/98575204-0ba3-4e03-a171-baa97725066c)
+![pre-processa](https://github.com/user-attachments/assets/7b4caf1d-2be1-4b32-822f-bd9500abf257)
+![pedido-processado-dynamo](https://github.com/user-attachments/assets/5766a936-46aa-44b2-8af5-1528c1007d93)
 
