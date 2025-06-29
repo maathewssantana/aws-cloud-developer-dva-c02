@@ -12,6 +12,10 @@ operações de negócio. Ela utiliza serviços essenciais da AWS_
 ###### -
 ![image](https://github.com/user-attachments/assets/63553682-2d02-451a-80ab-7d899ee6a995)
 
+
+#### Utilizando dessa estrutura para criação de pedidos por API, criei um frontend, deixo em anexo os arquivos do projeto.
+
+
 ###### -
 ![funcoes-lambda](https://github.com/user-attachments/assets/f5a31c73-8c0e-4fa2-ad72-1e4440057751)
 ###### -
@@ -22,5 +26,4 @@ operações de negócio. Ela utiliza serviços essenciais da AWS_
 ![bucket-datalake](https://github.com/user-attachments/assets/f25a0a38-f34a-4e11-bbea-2198f95acd66)
 ###### -
 ![apigateway](https://github.com/user-attachments/assets/0b6c1621-c522-4137-b6b5-8444153284a2)
-
 
